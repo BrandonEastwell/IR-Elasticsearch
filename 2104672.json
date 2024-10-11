@@ -1,0 +1,1511 @@
+{
+  "organisation": "Marvel Entertainment",
+  "location": "United States of America",
+  "person": "Scarlet Witch",
+  "animal": "Phoenix",
+  "explanation": "Marvel is a enormous American entertainment company that has written and published comic book stories for the character Scarlet Witch, the animal is a Phoenix which is a mythological creature that comes into contact with Scarlet Witch in the comics.",
+  "queries": [
+    {
+      "number": 1,
+      "original_query": "Who played scarlet witch in Marvel",
+      "keyword_query": "marvel scarlet witch",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "must": [
+              {
+                "multi_match": {
+                  "query": "scarlet witch",
+                  "fields": [],
+                  "type": "best_fields"
+                }
+              },
+              {
+                "multi_match": {
+                  "query": "actor",
+                  "fields": [],
+                  "type": "phrase"
+                }
+              },
+              {
+                "multi_match": {
+                  "query": "Marvel Cinematic Universe",
+                  "fields": [],
+                  "type": "phrase"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "person",
+      "matches": [
+        {
+          "docid": "68626888",
+          "sentences": [
+            "WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+ and based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, with Schaeffer serving as head writer and Matt Shakman directing all nine episodes. Elizabeth Olsen and Paul Bettany reprise their respective roles as Wanda Maximoff and Vision from the MCU films, with Debra Jo Rupp, Fred Melamed, Kathryn Hahn, Teyonah Parris, Randall Park, Kat Dennings, and Evan Peters also part of the cast. The series pays homage to past sitcoms, with Maximoff and Vision living in a reality that takes them through different decades of television tropes."
+          ]
+        },
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Wanda Maximoff is a fictional character primarily portrayed by Elizabeth Olsen in the Marvel Cinematic Universe (MCU) media franchise based on the Marvel Comics character of the same name."
+          ]
+        },
+        {
+          "docid": "29642053",
+          "sentences": [
+            "Olsen gained worldwide recognition for her portrayal of Wanda Maximoff / Scarlet Witch in the Marvel Cinematic Universe media franchise, appearing in the superhero films Avengers: Age of Ultron (2015), Captain America: Civil War (2016), Avengers: Infinity War (2018), Avengers: Endgame (2019), and Doctor Strange in the Multiverse of Madness (2022), as well as the miniseries WandaVision (2021) and the second season of What If...? (2023). Her performance in WandaVision garnered her nominations for a Primetime Emmy Award and a Golden Globe Award."
+          ]
+        },
+        {
+          "docid": "62482816",
+          "sentences": [
+            "-Johnson and Elizabeth Olsen joining as Pietro and Wanda Maximoff, respectively. Then, Captain America: Civil War (2016) was gradually reworked into a film influenced by the 'Civil War' comic storyline, depicting the Avengers's division and introducing Tom Holland as Peter Parker / Spider-Man. A two-part finale consisting of Avengers: Infinity War (2018) and Avengers: Endgame (2019) was developed to conclude the Infinity Saga and depicting their disbandment."
+          ]
+        },
+        {
+          "docid": "27306717",
+          "sentences": [
+            "In June 2021, Marvel Studios released a casting call for fans of \"Marvel's strong women\" to be a part of an unscripted Disney+ documentary series showcasing the women who create the MCU in front of and behind the camera, including actors and creatives, and the fans who applied to participate in the series. The series was titled MPower by February 2023 and premiered in its entirety on March 8, 2023, consisting of four episodes titled \"The Women of Black Panther\", \"Captain Marvel\", \"Scarlet Witch\", and \"Gamora\", which were directed by Quinn Wilson and used archival footage and animation. Its release coincided with International Women's Day. A number of MCU actresses were interviewed to discuss what makes their characters compelling to audiences, including Danai Gurira, Lupita Nyong'o, Florence Kasumba, and Letitia Wright; Brie Larson, Iman Vellani, and Teyonah Parris; Elizabeth Olsen, Kathryn Hahn, and Kat Dennings; and Zoë Saldaña, who executive produced the series alongside Victoria Alonso."
+          ]
+        },
+        {
+          "docid": "51430647",
+          "sentences": [
+            "The episode 'Now in Color' of WandaVision also features a lullaby written by showrunner Jac Schaeffer and translated into the fictional Sokovian language by the series' language coach Courtney Young. Performed by Elizabeth Olsen, Schaeffer said the song was just about a mother singing for her child rather than any of the series' larger mysteries, and described it as a 'sincere version of a TV sitcom theme song'"
+          ]
+        },
+        {
+          "docid": "26999426",
+          "sentences": [
+            "Captain America: Civil War was released on May 6, 2016, and again is directed by the Russo brothers. Evans, Johansson, Stan, Mackie, Grillo and VanCamp reprise their roles from The Winter Soldier, and they are joined by Robert Downey, Jr. as Tony Stark / Iron Man, Paul Bettany as Vision, Jeremy Renner as Clint Barton / Hawkeye, Don Cheadle as James \"Rhodey\" Rhodes / War Machine, Elizabeth Olsen as Wanda Maximoff / Scarlet Witch, Paul Rudd as Scott Lang / Ant-Man and William Hurt as Thaddeus \"Thunderbolt\" Ross all reprising roles from previous MCU films. Chadwick Boseman, Tom Holland and Daniel Brühl also star as T'Challa / Black Panther, Peter Parker / Spider-Man and Helmut Zemo, respectively."
+          ]
+        },
+        {
+          "docid": "59082207",
+          "sentences": [
+            "Elizabeth Olsen and Paul Bettany reprise their respective roles as Wanda and Vision from the film series, with Debra Jo Rupp, Fred Melamed, Kathryn Hahn, Teyonah Parris, Randall Park, Kat Dennings, and Evan Peters also starring. By September 2018, Marvel Studios was developing a number of limited series for Disney+ centered on supporting characters from the MCU films such as Wanda and Vision, with Olsen and Bettany returning.",
+            "By September 2018, Marvel Studios was developing several limited series for its parent company Disney's streaming service, Disney+, to be centered on supporting characters from the Marvel Cinematic Universe (MCU) films who had not starred in their own films, such as Wanda Maximoff. Actors who portrayed the characters in the films were expected to reprise their roles for the limited series, including Elizabeth Olsen as Wanda."
+          ]
+        },
+        {
+          "docid": "59353603",
+          "sentences": [
+            "Doctor Strange in the Multiverse of Madness is a 2022 American [[superhero film]] based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Stephen Strange must protect America Chavez (Gomez), a teenager capable of traveling the multiverse, from Wanda Maximoff (Olsen)."
+          ]
+        },
+        {
+          "docid": "59353603",
+          "sentences": [
+            "Feige revealed that the Disney+ series WandaVision (2021) would directly set up the film, with Elizabeth Olsen reprising her role of Wanda Maximoff / Scarlet Witch from the series.",
+            "Doctor Strange in the Multiverse of Madness is a 2022 American [[superhero film]] based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Stephen Strange must protect America Chavez (Gomez), a teenager capable of traveling the multiverse, from Wanda Maximoff (Olsen)."
+          ]
+        },
+        {
+          "docid": "22114132",
+          "sentences": [
+            "Avengers: Age of Ultron was written and directed by Whedon, and released on May 1, 2015. Much of the cast returns, with the addition of Elizabeth Olsen as Scarlet Witch, Aaron Taylor-Johnson as Quicksilver, Paul Bettany as Vision, and James Spader as Ultron. Avengers: Infinity War and Avengers: Endgame were directed by Anthony and Joe Russo, from a script by Christopher Markus and Stephen McFeely. Infinity War was released on April 27, 2018, followed by Endgame on April 26, 2019. Much of the cast returns for Infinity War and Endgame, with additional cast and characters joining from other MCU films."
+          ]
+        },
+        {
+          "docid": "41974496",
+          "sentences": [
+            "Captain America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and Captain America: The Winter Soldier (2014), and the 13th film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by the writing team of Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America alongside an ensemble cast including Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, and Daniel Brühl."
+          ]
+        },
+        {
+          "docid": "41974496",
+          "sentences": [
+            "Captain America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and Captain America: The Winter Soldier (2014), and the 13th film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by the writing team of Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America alongside an ensemble cast including Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, and Daniel Brühl."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "original_query": "who is the scarlet witch created by",
+      "keyword_query": "scarlet witch created by",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "must": {
+              "multi_match": {
+                "query": "scarlet witch created by",
+                "fields": [],
+                "type": "best_fields"
+              }
+            }
+          }
+        }
+      },
+      "answer_type": "person",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "The Scarlet Witch (Wanda Maximoff) is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #4 (March 1964) in the Silver Age of Comic Books. Originally said to have the ability to alter probability, the Scarlet Witch has been depicted as a powerful sorceress since the 1980s and on occasion has become powerful enough to alter reality by tapping into greater energy sources."
+          ]
+        },
+        {
+          "docid": "27739530",
+          "sentences": [
+            "The Scarlet Witch (Wanda Maximoff) is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #4 (March 1964) in the Silver Age of Comic Books. Originally said to have the ability to alter probability, the Scarlet Witch has been depicted as a powerful sorceress since the 1980s and on occasion has become powerful enough to alter reality by tapping into greater energy sources.",
+            "She was created by Stan Lee and Jack Kirby."
+          ]
+        },
+        {
+          "docid": "59082207",
+          "sentences": [
+            "WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise, and is set after the events of the film Avengers: Endgame (2019). It follows Wanda Maximoff and Vision as they live an idyllic suburban life in the town of Westview, New Jersey, until their reality starts moving through different decades of sitcom homages and television tropes. Schaeffer served as head writer for the series, which was directed by Matt Shakman."
+          ]
+        },
+        {
+          "docid": "304036",
+          "sentences": [
+            "The original Brotherhood of Evil Mutants was created by writer Stan Lee and artist/co-writer Jack Kirby and first appeared in X-Men #4 (March 1964)."
+          ]
+        },
+        {
+          "docid": "62482816",
+          "sentences": [
+            "The Avengers are a team of fictional superheroes and the protagonists of the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics team of the same name created by Stan Lee and Jack Kirby in 1963. Founded by S.H.I.E.L.D. Director Nick Fury, the team is a United States-based organization composed primarily of superpowered and gifted individuals, described as Earth's Mightiest Heroes, who are committed to the world's protection from a variety of threats."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "original_query": "Which comic book series features Scarlet Witch as a main character",
+      "keyword_query": "comic book series scarlet witch main character",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch main character"
+                }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "comic book series"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "54174412",
+          "sentences": [
+            "The Vision and the Scarlet Witch is a series of comic books published by Marvel Comics. The primary characters of these comics star the Vision and Scarlet Witch, known as a couple and are two longtime members of the Avengers."
+          ]
+        },
+        {
+          "docid": "27739530",
+          "sentences": [
+            "According to the online trade magazine ICv2, Scarlet Witch #1 was the 3rd best selling comic book in January 2023.",
+            "Scarlet Witch and Quicksilver #1 was the 148th best selling comic book in November 2011.",
+            "The Scarlet Witch (Wanda Maximoff) is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #4 (March 1964) in the Silver Age of Comic Books."
+          ]
+        },
+        {
+          "docid": "8593570",
+          "sentences": [
+            "Scarlet Witch and Quicksilver #1 was the 148th best selling comic book in November 2011."
+          ]
+        },
+        {
+          "docid": "4605077",
+          "sentences": [
+            "In Young Avengers #11, Tommy's possible relationship to the Scarlet Witch, the original android Vision, and Billy was revealed by the Super-Skrull and the current Vision. In the past, the Scarlet Witch used her reality-warping powers to create twin sons, unknowingly using two (of five) scattered fragments of the soul of the demon Mephisto that he had lost in an encounter with the powerful mutant child, Franklin Richards."
+          ]
+        },
+        {
+          "docid": "362238",
+          "sentences": [
+            "George Marston of Newsarama ranked Avengers Origins: Scarlet Witch and Quicksilver 6th in their The best Wanda Maximoff / Scarlet Witch stories of all time list, asserting, In comic books, Wanda and Pietro's time as villains was short-lived, and their prior history wasn't largely explored until years later, through glimpses and scattered stories."
+          ]
+        },
+        {
+          "docid": "75162447",
+          "sentences": [
+            "High Priest of Zor is a fictional character appearing in American comic books published by Marvel Comics. The character first appeared in Power Man and Iron Fist #102 (February 1984).",
+            "High Priest of Zor captured the Scarlet Witch in service of his demonic master, but was defeated by Power Man and Iron Fist."
+          ]
+        },
+        {
+          "docid": "1660807",
+          "sentences": [
+            "House of M is a 2005 comic book storyline published by Marvel Comics, consisting of an eight-issue comic book limited series with a number of crossover tie-in books written by Brian Michael Bendis and illustrated by Olivier Coipel. Its first issue appeared in June 2005 as a follow-up to the events of the Planet X and Avengers Disassembled storylines. Magneto, the Scarlet Witch, and her twin brother, Quicksilver, play major roles in the series."
+          ]
+        },
+        {
+          "docid": "733905",
+          "sentences": [
+            "The West Coast Avengers is a fictional group of superheroes appearing in American comic books published by Marvel Comics. The team first appeared in The West Coast Avengers #1 (Sept. 1984), created by Roger Stern and Bob Hall. It was the first spin-off publication for the Avengers.",
+            "After a trip to Hungary to investigate a report on Pym's second wife, the Wasp, the Scarlet Witch, and the Vision assist the team.",
+            "The Vision and the Scarlet Witch join the team as to not leave it short handed."
+          ]
+        },
+        {
+          "docid": "3205284",
+          "sentences": [
+            "Barr's debut as a comics professional came in DC Comics' Detective Comics #444 (Dec. 1974–Jan. 1975), for which he wrote an eight-page back-up mystery feature starring the Elongated Man. Another Elongated Man story followed in Detective Comics #453 (Nov. 1975). He wrote text articles and editorial replies in letter columns for the next few years. By mid-1980 he was writing regularly for both DC and Marvel, including stories for Mystery in Space, Green Lantern, The Brave and the Bold, Marvel Team-Up, and a Spider-Man/Scarlet Witch team-up in Marvel Fanfare #6."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "original_query": "Which superhero teams has Scarlet Witch been a member of",
+      "keyword_query": "scarlet witch superhero teams",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch"
+                }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "Wanda Maximoff"
+                }
+              }
+            ],
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "superhero teams"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "organisation",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "The Scarlet Witch is first depicted as a reluctant supervillain along with her twin brother, Pietro Maximoff/Quicksilver, both founding members of the Brotherhood of Mutants. A year after her debut, she joined the Avengers superhero team and ever since has often been depicted as a regular member of that or related teams (such as the West Coast Avengers and Force Works). In 1975, she married her android teammate Vision, later using borrowed magical forces to make herself pregnant, resulting in twin sons William (\"Billy\") and Thomas (\"Tommy\"). Stories in 1989 wiped Tommy and Billy from existence (they would later reappear as the heroes called Wiccan and Speed) and removed Vision's emotions, leading to the annulment of his and Wanda's marriage."
+          ]
+        },
+        {
+          "docid": "362238",
+          "sentences": [
+            "The character first appears with Wanda, now called the Scarlet Witch, as a part of the Brotherhood of Evil Mutants. The siblings were originally presented as mutants, with Pietro possessing superhuman speed and Wanda able to control probability. The pair are recruited by Magneto after he saves Wanda from a mob after she accidentally causes a house to burst into flame. Quicksilver stays with her to protect her. After several confrontations with the X-Men, they depart when Magneto and his lackey the Toad are abducted by the cosmic entity the Stranger. They then travel back to Europe. Pietro and his sister reform and are recruited by Iron Man to the superhero team the Avengers, after they discover they are advertising for new members and want to get support for themselves."
+          ]
+        },
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Wanda initially comes into conflict with the Avengers but later joins them to defeat Ultron, becoming one of their most powerful members.",
+            "Stan Lee, author of the Avengers comic book, composed the team of Marvel's most prominent heroes. However, he eventually altered the team roster, removing all but Captain America, and added villains from other comics: the Scarlet Witch and Quicksilver from the X-Men, and Hawkeye from Iron Man's adventures in Tales of Suspense. The team was known as \"Cap's Kooky Quartet\". Although common in later years, such a change in the roster of a superhero group was completely unprecedented. Scarlet Witch would now become a lasting member of the team."
+          ]
+        },
+        {
+          "docid": "2082947",
+          "sentences": [
+            "Wiccan (William Billy Kaplan-Altman) is a fictional superhero appearing in American comic books published by Marvel Comics. The character has been depicted as a member of the Young Avengers, a team of teenage superheroes, as well as Strikeforce and New Avengers. Created by writer Allan Heinberg and artist Jim Cheung, the character first appeared in Young Avengers #1 (April 2005). The character's appearance is patterned on that of two prominent Marvel superheroes, Thor and Scarlet Witch (Wiccan's mother), both of whom are members of the Avengers. Like the Scarlet Witch, Wiccan possesses powerful magical abilities which make him a key member of his superhero team."
+          ]
+        },
+        {
+          "docid": "11201416",
+          "sentences": [
+            "The Vision is a superhero appearing in American comic books published by Marvel Comics. Created by Roy Thomas and artist John Buscema, the character first appeared in The Avengers #57 (published in August 1968). The Vision is loosely based on the Timely Comics character of the same name who was an alien from another dimension. The character is an android (sometimes called a \"synthezoid\") built by the villainous robot Ultron created by Hank Pym. Originally intended to act as Ultron's \"son\" and destroy the Avengers, Vision instead turned on his creator and joined the Avengers to fight for the forces of good. Since then, he has been depicted as a frequent member of the team, and, for a time, was married to his teammate, the Scarlet Witch. He also served as a member of the Defenders."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "original_query": "Who are Scarlet Witch's parents in Marvel Comics",
+      "keyword_query": "scarlet witch parents",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "Wanda Maximoff" }
+              }
+            ],
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "parents"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "person",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "The character's in-universe backstory and parentage have changed more than once. During the 1960s, she and Quicksilver were said to be the mutant twin offspring of two unnamed parents. Later, it was said the children were given to the geneticist called the High Evolutionary, leaving their true parentage a mystery. In 1974, it was said their parents are Golden Age heroes Bob Frank / Whizzer and Madeline Joyce Frank / Miss America. Wanda then refers to herself as Wanda Frank for a time. In 1979, they are revealed to have been raised by human Romani parents, Django and Marya Maximoff. In 1982, Magneto concludes he is Wanda and Pietro's father. In 2014, the AXIS crossover revealed Pietro and Wanda are not related to Magneto. In 2015, the twins discover they are not mutants and their superhuman traits are the result of the High Evolutionary's experiments combined with Wanda genetically being a Witch born with natural magical abilities. The 2015–2017 Scarlet Witch series reveals that Wanda and Pietro's adoptive parents, Django and Marya Maximoff, are biologically their aunt and uncle. Their real mother is confirmed to be Natalya Maximoff, the previous Scarlet Witch, a Romani sorceress whose father was the Scarlet Warlock."
+          ]
+        },
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Wanda Maximoff was born in 1989 in Sokovia, Eastern Europe, unaware that she was born a witch and unknowingly engaging in basic hex magic. While growing up with her twin brother Pietro and her parents Oleg and Iryna in a small apartment during a war, she enjoyed watching American sitcoms, which her father sold DVD box sets of so their family could practice speaking English in the hopes of emigrating to America. However, Oleg and Iryna were killed when a missile struck their apartment while Wanda and Pietro were trapped in the debris for two days."
+          ]
+        },
+        {
+          "docid": "59082207",
+          "sentences": [
+            "Additional guest stars include Jolene Purdy as Isabel Matsueda who plays Wanda and Vision's neighbor \"Beverly\"; frequent MCU stuntman Zac Henry as Franklin, a S.W.O.R.D. agent who becomes a beekeeper when he enters Wanda's reality; Randy Oglesby as a Westview resident who plays \"Stan Nielson\", the town's doctor; Wesley Kimmel and Sydney Thomas as the boy and girl in the commercials; and Kate Forbes as Agatha's mother, Evanora Harkness. Ilana Kohanchi and Daniyar portray the Maximoffs' parents Iryna and Olek Maximoff, respectively, while Gabriel Gurevich plays a young version of her brother Pietro."
+          ]
+        },
+        {
+          "docid": "74972046",
+          "sentences": [
+            "During this time, it was also suggested that Madeline Joyce was the mother of Pietro Maximoff / Quicksilver and Wanda Maximoff / Scarlet Witch. This was ultimately refuted when it was revealed that Max Eisenhard / Magneto and Magda Eisenhardt were their biological parents."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "original_query": "Where is Scarlet Witch's hometown in Marvel Comics?",
+      "keyword_query": "scarlet witch hometown",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "Wanda Maximoff" }
+              }
+            ],
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "hometown"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "location",
+      "matches": [
+        {
+          "docid": "59082207",
+          "sentences": [
+            "WandaVision begins three weeks after the events of Avengers: Endgame (2019), and is set in the fictional town of Westview, New Jersey, which was named as a reference to Feige's hometown of Westfield, New Jersey, but with the initials W and V."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "original_query": "What is visions relationship to scarlet witch?",
+      "keyword_query": "scarlet witch vision relationship",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "Wanda Maximoff" }
+              }
+            ],
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "vision" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "relationship" }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "The Scarlet Witch is first depicted as a reluctant supervillain along with her twin brother, Pietro Maximoff/Quicksilver, both founding members of the Brotherhood of Mutants. A year after her debut, she joined the Avengers superhero team and ever since has often been depicted as a regular member of that or related teams (such as the West Coast Avengers and Force Works). In 1975, she married her android teammate Vision, later using borrowed magical forces to make herself pregnant, resulting in twin sons William (\"Billy\") and Thomas (\"Tommy\"). Stories in 1989 wiped Tommy and Billy from existence (they would later reappear as the heroes called Wiccan and Speed) and removed Vision's emotions, leading to the annulment of his and Wanda's marriage."
+          ]
+        },
+        {
+          "docid": "55935213",
+          "sentences": [
+            "She develops a romantic relationship with Vision until he dies during the conflict with Thanos. After she is restored to life, Wanda becomes mentally unstable and uses her abilities to trap the entire town of Westview in a false reality she creates to her liking. This brings her into conflict with S.W.O.R.D. and Agatha Harkness, causing her to manifest her ancient prophesied identity as the Scarlet Witch. After reluctantly freeing Westview, she absorbs Agatha's abilities and takes possession of the Darkhold, which she later uses to locate alternate reality versions of her children, Billy and Tommy Maximoff, whom she created in the false reality. Wielding the Darkhold, she seeks to kill teenager America Chavez, absorb her multiverse transportation powers, and then kill and replace another version of herself and take their children for herself, coming into conflict with former ally Stephen Strange. Possessing her counterpart from Earth-838, Wanda massacres the Illuminati until being confronted by the Earth-838 versions of her children and collapsing Mount Wundagore on herself, destroying all copies of the Darkhold across the multiverse."
+          ]
+        },
+        {
+          "docid": "11201416",
+          "sentences": [
+            "Eventually, Vision regains control of himself and Ultron is defeated. Soon afterward, the former Avengers known as Wanda Maximoff, the Scarlet Witch, and her twin brother Pietro Maximoff, Quicksilver, rejoin the team. Wanda and Vision begin forming a friendship. At times, Vision suspects he is developing feelings for Wanda but then quickly denies this, believing that even an android who has some emotional capacity is not capable of having a romantic relationship with a human. Despite this, he grows fiercely protective of his teammates and Wanda in particular. During the Kree-Skrull War, Vision realizes he can hide his feelings no longer and admits them to Wanda. Feeling the same for him, Wanda kisses Vision and the two become romantically involved. This despite the protests of Quicksilver, who believes an android cannot truly love, and Hawkeye, who has his own feelings for Wanda. Eventually, Hawkeye, as well as the other Avengers, come to agree the two make a happy couple."
+          ]
+        },
+        {
+          "docid": "61073786",
+          "sentences": [
+            "By September 2018, Marvel Studios was developing a limited series starring Elizabeth Olsen as Wanda Maximoff and Paul Bettany as Vision, with a focus on their relationship.",
+            "Wanda Maximoff and Vision are living an idyllic suburban life in the town of Westview, New Jersey, trying to conceal their true natures."
+          ]
+        },
+        {
+          "docid": "68898424",
+          "sentences": [
+            "In grief, Wanda created a fictional reality based on the sitcoms she watched as a child, featuring a perfect life with her and Vision. In this reality, called the Hex, Wanda gave birth to twins, Billy and Tommy Maximoff (portrayed by Baylen Bielitz and Gavin Borders as young children respectively, and Julian Hilliard and Jett Klyne as slightly older children, in WandaVision)."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "original_query": "What year was Marvel Entertainment founded in the United States?",
+      "keyword_query": "marvel entertainment founded year",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "year",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "founded",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "date",
+      "matches": [
+        {
+          "docid": "5027882",
+          "sentences": [
+            "Marvel Entertainment, LLC (formerly Marvel Enterprises) was an American entertainment company founded in June 1998 and based in New York City, formed by the merger of Marvel Entertainment Group and Toy Biz."
+          ]
+        },
+        {
+          "docid": "30857710",
+          "sentences": [
+            "Toy Biz (also stylized as ToyBiz), was an American–Canadian toy company which later became a subsidiary of Marvel Entertainment and was renamed to Marvel Toys.",
+            "It was best known for producing action figures and toys and holding the Marvel Comics license from 1990 to 2006.",
+            "In 1990, it obtained the master toy license for the Marvel Entertainment Group, and by 1993 became partially owned by Marvel. In 1998, Toy Biz merged with Marvel Entertainment Group to bring it out of bankruptcy, with the two companies merging and creating Marvel Enterprises."
+          ]
+        },
+        {
+          "docid": "20966",
+          "sentences": [
+            "Marvel Comics is an American comic book publisher and the property of The Walt Disney Company since December 31, 2009, and a subsidiary of Disney Publishing Worldwide since March 2023. Marvel was founded in 1939 by Martin Goodman as Timely Comics, and by 1951 had generally become known as Atlas Comics. The Marvel era began in June 1961 with the launch of The Fantastic Four and other superhero titles created by Stan Lee, Jack Kirby, Steve Ditko, and many others. The Marvel brand, which had been used over the years and decades, was solidified as the company's primary brand."
+          ]
+        },
+        {
+          "docid": "61073786",
+          "sentences": [
+            "By September 2018, Marvel Studios was developing a limited series starring Elizabeth Olsen as Wanda Maximoff and Paul Bettany as Vision, with a focus on their relationship.",
+            "Wanda Maximoff and Vision are living an idyllic suburban life in the town of Westview, New Jersey, trying to conceal their true natures."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "original_query": "In which area is the headquarters of Marvel Entertainment located in the United States?",
+      "keyword_query": "marvel entertainment headquarters located united states",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"best_fields"
+              } }, {
+              "multi_match": {
+                "query":"Marvel",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "united states",
+                "fields": [],
+                "type":"best_fields"
+              } }, {
+              "multi_match": {
+                "query": "us",
+                "fields": [],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "headquarters",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "located",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "place",
+      "matches": [
+        {
+          "docid": "57012352",
+          "sentences": [
+            "Avengers Campus is a Marvel Cinematic Universe–themed area located at Disney California Adventure and Walt Disney Studios Park in Disneyland Paris, and being developed for Hong Kong Disneyland. The Marvel-themed areas or \"lands\" are being developed simultaneously at the three parks and inspired by the Marvel Cinematic Universe."
+          ]
+        },
+        {
+          "docid": "302201",
+          "sentences": [
+            "Midtown Manhattan is the one of the world's largest central business district, with 400 million square feet (37.2 million m2) of office space in 2018. Midtown contains the headquarters of major companies, including 4Kids Entertainment (formerly), Barnes & Noble, Bloomberg L.P., Ernst & Young, Calvin Klein, Cantor Fitzgerald, CBS Corporation, Citigroup, Colgate-Palmolive, Cushman & Wakefield, DC Comics, Deloitte, Duane Reade, Estée Lauder Companies, Foot Locker, Frederator Studios, JPMorgan Chase, Hess Corporation, Kroll Inc., L-3 Communications, Marsh & McLennan Companies, Marvel Entertainment, MetLife, MidOcean Partners, Morgan Stanley, Nasdaq, Inc., NBC Universal, The New York Times Company, NexCen Brands, Paramount Global, Pfizer, Polo Ralph Lauren, Saks Incorporated (Saks Fifth Avenue), The Sharper Image, Simon & Schuster, Six Flags, TBWA Worldwide, Thomson Reuters, Time Warner, Time Warner Cable, The Travelers Companies, and Univision Communications. The New York Institute of Finance is located in Midtown Manhattan."
+          ]
+        },
+        {
+          "docid": "2857794",
+          "sentences": [
+            "The Main Tower is informally known as Avengers Tower, as it serves as the headquarters of the superhero team, the Avengers, similar to the Avengers Mansion. Currently, the main Stark Tower is located in Broadway, occupying the space where the Condé Nast Building is in the real world."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "original_query": "In which comic book storyline did Scarlet Witch and Dark Phoenix encounter each other?",
+      "keyword_query": "comic book scarlet witch dark phoenix",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [
+              {
+                "match": {
+                  "parsedParagraphs": "Scarlet Witch" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "Wanda Maximoff" }
+              }
+            ],
+            "must": [
+              {
+                "match": {
+                  "parsedParagraphs": "dark phoenix" }
+              },
+              {
+                "match": {
+                  "parsedParagraphs": "comic book" }
+              }
+            ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "26130029",
+          "sentences": [
+            "There are indications of adapting arcs such as Ragnarok, Dark Phoenix Saga, Evolutionary war, House of M. And that the end of the 3rd season is an adaptation of Heroes Reborn, for which Wanda Maximoff and Jean Gray contained the Phoenix Force in a pocket dimension, where the X-Men would sacrifice themselves to keep it there and there is a connection with the opening scene of the Wolverine and the X-Men. Josh Fine commented that this while he was very entertained by the synopsis he read, they were not discussed by the original writing team."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "original_query": "What are Dark Phoenix's powers in Marvel Comics?",
+      "keyword_query": "dark phoenix powers comics",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "must": [ {
+              "multi_match": {
+                "query":"dark phoenix",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"powers",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"comics",
+                "fields":[],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "1413839",
+          "sentences": [
+            "Experiencing this power in its totality overwhelms Jean, and she renames herself \"Dark Phoenix\". Enraged at Mastermind, she uses a telepathic illusion to make him experience godhood, driving him insane. To break her ties with her less powerful identity as Jean Grey, she strikes down the X-Men and departs for a distant galaxy. However, her power proves to be far more limited than she thought; the intergalactic trip leaves her almost completely drained. To recharge, she devours the energy of the nearby D'Bari star, causing a supernova which kills the entire population of the only civilized planet orbiting the star."
+          ]
+        },
+        {
+          "docid": "49125",
+          "sentences": [
+            "The Phoenix is later drawn to Earth when Firehair, a young primitive female red-haired mutant overwhelmed with despair by her friends' deaths, contemplates turning her psychic abilities on herself to commit suicide at the \"Burnt Place\". Attracted to Firehair's untapped raw psychic power, the Phoenix prevents the suicide, bonds with her, and seeks to use her to fulfill its intended purpose of razing planets to ashes. Consumed by vengeful rage, Firehair nearly gives in to the firebird's bloodlust to become a Dark Phoenix, but is pacified by her wolf guardian and decides to use her powers to protect those weaker than herself."
+          ]
+        },
+        {
+          "docid": "53852716",
+          "sentences": [
+            "The Phoenix is later drawn to Earth when Firehair, a young primitive female red-haired mutant overwhelmed with despair by her friends' deaths, contemplates turning her psychic abilities on herself to commit suicide at the \"Burnt Place\". Attracted to Firehair's untapped raw psychic power, the Phoenix prevents the suicide, bonds with her, and seeks to use her to fulfill its intended purpose of razing planets to ashes. Consumed by vengeful rage, Firehair nearly gives in to the firebird's bloodlust to become a Dark Phoenix, but is pacified by her wolf guardian and decides to use her powers to protect those weaker than herself."
+          ]
+        },
+        {
+          "docid": "16559",
+          "sentences": [
+            "Jean is a powerful empath, as she can feel and manipulate emotions of other people, as shown when her power first emerged as she felt her friend Annie Richardson slowly dying. Jean can also connect people's minds to the feelings of others and make them feel the pain they inflicted.",
+            "Jean is also one of the few telepaths skilled enough to communicate with animals (animals with high intelligence, such as dolphins, dogs, and ravens). As a side effect of her telepathy, she has an eidetic memory.",
+            "Jean possesses a high-level of telekinetic ability that enables her to psionically levitate and rapidly move about all manner of animate and inanimate matter. She can use her telekinetic abilities on herself or others to simulate the power of flight or levitation, stimulate molecules to increase friction, create protective force fields out of psychokinetic energy, or project her telekinetic energy as purely concussive force. The outer limits of her telekinetic power have never been clearly established, though she was capable of lifting approximately fifty tons of rubble with some strain. Jean was later stated to have become an Omega Level Telekinetic.",
+            "since the retcon of the Phoenix as a separate entity from Jean Grey, depictions of these powers vary; these include Jean being one of many hosts to the Phoenix and \"borrowing\" its \"Phoenix powers\" during this time, being a unique host to the Phoenix, and being one with the Phoenix. She is later described as the only one currently able to hold the title of \"White Phoenix of the Crown\" among the many past, present, and future hosts of the Phoenix. Jean — both young and adult versions — is also the only character ever to force the Phoenix against its own cosmic will to do anything while not presently a host to its powers. ",
+            "Jean Grey is a member of a subspecies of humans known as mutants who are born with superhuman abilities. She was born with psionic powers. The character has also been known as Marvel Girl, Phoenix, and Dark Phoenix at various points in her history."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "original_query": "Which Marvel event prominently features Scarlet Witch?",
+      "keyword_query": "marvel event scarlet witch",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Scarlet Witch",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Wanda Maximoff",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "event",
+                "fields": [],
+                "type":"best_fields"
+              } }, {
+              "multi_match": {
+                "query": "comics",
+                "fields": [],
+                "type":"best_fields"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "event",
+      "matches": [
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Wanda reluctantly kills Vision and destroys the Stone, but Thanos uses the Time Stone to reverse the action and rip the repaired Mind Stone from Vision's forehead, before knocking out a horrified Wanda and activating the completed Infinity Gauntlet. Wanda, along with half of all life in the universe, disintegrates in an event that would later be called the Blip.",
+            "In Avengers: Infinity War, Olsen explains that Wanda and Vision have maintained a romance while Wanda remains in hiding and are \"trying to within that time find points of meeting in different places in order to try and forward our relationship\". Paul Bettany described it as the most emotional arc for the characters. In early drafts of Infinity War and Endgame, the screenwriters had Wanda survive the snap and participate more substantially in the events of Endgame, while still mourning Vision, but this angle was ultimately dropped because \"she'd gotten so much mileage and story in the first movie that she didn't really have anything that equaled that in the second\"."
+          ]
+        },
+        {
+          "docid": "27739530",
+          "sentences": [
+            "Wanda immediately resurrects her brother. Enraged she was not allowed to create a world where mutants were not persecuted by normal humans, she declares \"No more mutants.\" Her power then causes \"M-Day\", with most of Earth's mutant population losing their X-gene and powers, including Magneto and Quicksilver (though each later has their powers restored). The event becomes known as \"M-Day\".",
+            "In September 2022, Marvel announced a Scarlet Witch solo series which follows the events of Trial of Magneto; it premiered in January 2023.",
+            "Age of Apocalypse was a comic book event where reality was altered by time travel, causing the death of X-Men founder Charles Xavier ten years before the formation of the X-Men.",
+            "During the events of the miniseries Infinity Wars, the universe is folded in half, which results in the Scarlet Witch being fused with X-23 to create Laura, aka \"Weapon Hex\"",
+            "Many comic fans will point to House of M as an important arc for Scarlet Witch, and yet, even there, she was little more than a plot device in the major Marvel event.",
+            "Wanda's attempts to tap into the Life Force increased her power a hundredfold, once again allowing her to alter reality as she had as a nexus being, but also causing her to enter a maddened state and then cause the events of Avengers Disassembled. Following the events of House of M, Doom found Wanda and manipulated her again, convincing her to be his bride."
+          ]
+        },
+        {
+          "docid": "1660807",
+          "sentences": [
+            "House of M is a 2005 comic book storyline published by Marvel Comics, consisting of an eight-issue comic book limited series with a number of crossover tie-in books written by Brian Michael Bendis and illustrated by Olivier Coipel. Its first issue appeared in June 2005 as a follow-up to the events of the Planet X and Avengers Disassembled storylines. Magneto, the Scarlet Witch, and her twin brother, Quicksilver, play major roles in the series. Like the Age of Apocalypse (1995–1996) storyline, House of M replaced the Earth-616 as the main reality for a brief time until Scarlet Witch reverted it to normal. The events of the storyline were later indicated to have occurred on Earth-58163."
+          ]
+        },
+        {
+          "docid": "67865577",
+          "sentences": [
+            "In September 2022, Marvel announced a Scarlet Witch solo series which follows the events of Trial of Magneto; it premiered in January 2023.",
+            "X-Men: Trial of Magneto by writer Leah Williams and artist Lucas Werneck. The limited series is part of the X-Men line Reign of X; it follows the events of the Hellfire Gala where the Scarlet Witch is murdered in X-Factor (vol. 4) #10."
+          ]
+        },
+        {
+          "docid": "1488680",
+          "sentences": [
+            "Young Avengers follows the events of the 2004–2005 \"Avengers Disassembled\" storyline. The four founding members of the team are gathered as a result of the Vision's plan for the reformation of the Avengers in the event the team disbanded.",
+            "Wanda and Wiccan manage to remove Doom's newfound powers, and he claims that he was responsible for the Scarlet Witch's doings during the \"Avengers Disassembled\" and \"House of M\" events"
+          ]
+        },
+        {
+          "docid": "1033642",
+          "sentences": [
+            "\\\"Avengers Disassembled\\\" is a 2004 crossover storyline published by Marvel Comics involving the Avengers, Fantastic Four, Captain America, Spider-Man and Thor. The beginning of Brian Michael Bendis's Avengers run, it depicts the destruction of the existing traditional roster and the exile of several key members of the team.",
+            "Elsewhere, Wanda Maximoff arrives at the United Nations, where she speaks with Captain America, who announces that he is ending their fledgling relationship.",
+            "Cap later believes that due to the events of \"Avengers Disassembled\", Wanda was responsible for his visions and Falcon's aggressive behavior."
+          ]
+        },
+        {
+          "docid": "36658609",
+          "sentences": [
+            "Uncanny Avengers is a comic book series first appearing in the October 2012 debut of Marvel NOW!, published by Marvel Comics.",
+            "Uncanny Avengers follows a new team of Avengers formed in response to the events of Avengers vs. X-Men. The team features a line-up of both classic Avengers and X-Men including Captain America (Steve Rogers), Havok, Rogue, the Scarlet Witch, Thor, and Wolverine."
+          ]
+        },
+        {
+          "docid": "4160102",
+          "sentences": [
+            "X-Men: The 198 is a comic book limited series that was published by Marvel Comics and set in the Marvel Universe shortly after the House of M and Decimation events.",
+            "In House of M #7, the Scarlet Witch removes the powers of the overwhelming majority of the world's mutants in an event, eventually called \"M-Day\"."
+          ]
+        },
+        {
+          "docid": "403512",
+          "sentences": [
+            "John Byrne took over writing both West Coast Avengers and The Avengers and merged the two separate Avengers teams into one team with two bases. Byrne's contributions included a revamping of the Vision, and the discovery that the children of the Scarlet Witch and the Vision were actually illusions. The Avengers titles in late 1989 were involved in the major crossover event \"Acts of Vengeance\"."
+          ]
+        },
+        {
+          "docid": "316255",
+          "sentences": [
+            "This story revealed that the Scarlet Witch's powers included wide-range reality manipulation and she was what the time-traveling Immortus refers to as a \"nexus being\" setting the stage for 2004's eventual Chaos and Avengers Disassembled storylines."
+          ]
+        },
+        {
+          "docid": "3119036",
+          "sentences": [
+            "\\\"Decimation\\\" is a storyline published by Marvel Comics in 2005, spinning out of the events of the House of M limited series.",
+            "The storyline focuses on the ramifications of the Scarlet Witch stripping nearly all of the mutant population of their powers, thereby reducing a society of millions to one of scant hundreds. This event, which occurred on November 2 according to X-Men (vol. 2) #191, is known as \"M-Day\" in the Marvel Universe."
+          ]
+        },
+        {
+          "docid": "5279364",
+          "sentences": [
+            "After the events of M-Day, in which a mentally ill Scarlet Witch removed the mutant gene from the majority of the world's mutant population, Riptide's clone retained his powers. Riptide's clone returns alongside the new Marauders."
+          ]
+        },
+        {
+          "docid": "34331213",
+          "sentences": [
+            "Bendis wrote Avengers: Disassembled, where Scarlet Witch lost control of her magical powers and turned on the Avengers which led to the alternate-reality event series, House of M and her depowering of most of the mutant population. Bendis said in the series, \"[Scarlet Witch is] faced with a situation that could either redeem her, which would be crazy awesome, or make things worse"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "original_query": "Why did scarlet witch cause M-Day?",
+      "keyword_query": "scarlet witch m-day why",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Scarlet Witch",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Wanda Maximoff",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "m-day",
+                "fields": [],
+                "type":"best_fields"
+              } }, {
+              "multi_match": {
+                "query": "comics",
+                "fields": [],
+                "type":"best_fields"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "reason",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "Wanda was seen again in the limited series House of M, creating an alternate version of Earth. When Earth's heroes defeat her, she causes \"M-Day\"",
+            "Enraged she was not allowed to create a world where mutants were not persecuted by normal humans, she declares \"No more mutants.\" Her power then causes \"M-Day\""
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "original_query": "Why has scarlet witch ever been in contact with doctor strange?",
+      "keyword_query": "scarlet witch doctor strange",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Scarlet Witch",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Wanda Maximoff",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "doctor strange",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "reason",
+      "matches": [
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Other versions of Maximoff are depicted in the alternate realities of the MCU multiverse, appearing in the film Doctor Strange in the Multiverse of Madness (2022) and the animated series What If...? (2021–present), also portrayed by Olsen.",
+            "Wanda has become a central character within the MCU, having appeared in six films as of 2023. She also has a lead role in the miniseries WandaVision (2021). Alternate versions of Wanda from alternate universes appear in the animated series What If...? (2021–present) and in the film Doctor Strange in the Multiverse of Madness (2022): Zombie Wanda, Wanda-Merlin, and Wanda-838."
+          ]
+        },
+        {
+          "docid": "1660807",
+          "sentences": [
+            "The battle between the House of M and the heroes continues with great ferocity. While the chaos ensues, the Scarlet Witch disappears from the battlefield only to be discovered by Doctor Strange in a tower with her children. The two begin to talk as Doctor Strange attempts to discover the origin of the madness that is happening.",
+            "The X-Men argue that if word gets out that a mutant with the ability to change reality went insane, it would \"send human-mutant relations back to the stone age.\" As the conversation progresses, it is revealed that Professor X asked Doctor Strange to help Wanda, but unfortunately neither was strong enough to combat her magic."
+          ]
+        },
+        {
+          "docid": "27739530",
+          "sentences": [
+            "After killing Agatha, Scarlet Witch secretly launches a campaign of terror against the Avengers, influencing minds and creating simulated enemies to attack them.",
+            "With help from Earth's heroes, Doctor Strange defeats Wanda and she falls into a coma. Magneto arrives and then leaves with her."
+          ]
+        },
+        {
+          "docid": "27739530",
+          "sentences": [
+            "After killing Agatha, Scarlet Witch secretly launches a campaign of terror against the Avengers, influencing minds and creating simulated enemies to attack them.",
+            "With help from Earth's heroes, Doctor Strange defeats Wanda and she falls into a coma. Magneto arrives and then leaves with her."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "original_query": "What are scarlet witches powers in marvel comics?",
+      "keyword_query": "scarlet witch powers",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "must": [ {
+              "multi_match": {
+                "query":"scarlet witch",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"powers",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"comics",
+                "fields":[],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "27739530",
+          "sentences": [
+            "Under Englehart, Wanda studies spell casting and the manipulation of magical forces under the tutelage of Agatha Harkness. Along with increasing her control over the effects of her hexes, this allows her to counter, deflect, and block a variety of magical attacks.",
+            "Despite the character's name, the Scarlet Witch's powers stemmed not from witchcraft or magic but from being a mutant who could affect probability. Later stories gave her increased control, allowing her to release targeted \"hex-bolts\" that could cause enemy weapons to backfire, their abilities to fail, or the area around them to suffer sudden damage and instability. Eventually, she also became adept at casting energy blasts that could directly stun opponents. She later realizes her hex-bolts are the most basic use of chaos magic."
+          ]
+        },
+        {
+          "docid": "4605077",
+          "sentences": [
+            "Thomas and William were twins, with Tommy being the older of the two, Thomas and Willian supposedly born to Scarlet Witch and Vision; in reality, Scarlet Witch used her reality warping powers to create twin sons, unknowingly, from two of five scattered fragments of the soul of the demon Mephisto that were previously lost to him in an ill-fated encounter with the powerful mutant child Franklin Richards."
+          ]
+        },
+        {
+          "docid": "55935213",
+          "sentences": [
+            "Wanda is first fully introduced in Avengers: Age of Ultron as the twin sister of Pietro Maximoff who can engage in hypnosis and telekinesis. Olsen felt Wanda was \"overly stimulated\" rather than \"mentally insane\" because \"she has such a vast amount of knowledge that she's unable to learn how to control it. No one taught her how to control it properly... she can connect to this world and parallel worlds at the same time, and parallel times\". Describing her character's mind control powers, Olsen said that the character is able to do more than manipulating someone's mind, with Scarlet Witch able to \"feel and see what they feel and see\" by projecting visions that they have never seen.",
+            "The full extent of Wanda's powers has yet to be fully unlocked in the Marvel Cinematic Universe. Wanda is a naturally-born sorceress with the ability to harness chaos magic presenting in reality warping, conjuration, time and illusion manipulation, and even life creation. Later, Wanda is able to harness Darkhold magic, typically presented in dream walking, physical augmentation, and power absorption."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "original_query": "What were the release dates of marvel movies?",
+      "keyword_query": "marvel movie release date",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "release date",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "movie",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "film",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "date",
+      "matches": [
+        {
+          "docid": "62482816",
+          "sentences": [
+            "The Avengers from alternate universes were depicted in subsequent MCU properties across the Multiverse Saga, including appearances in the Disney+ animated series What If...? (2021–present) and Doctor Strange in the Multiverse of Madness (2022). The Avengers are set to return in Avengers 5 (2026) and Avengers: Secret Wars (2027). Both films will be part of the MCU's Phase Six, concluding the Multiverse Saga.",
+            "Following the formation Marvel Studios as an independent film studio by Avi Arad, the head of Marvel's film division, producer Kevin Feige envisioned creating a shared cinematic universe to introduce the Avengers, similar to Stan Lee and Jack Kirby's comic books in the 1960s. Once Feige became studio chief in 2007 and formed his creative team, his strategy involved creating individual films for each major character in Phase One, beginning with Iron Man (2008) and concluding with The Avengers (2012). Casting for the original six members occurred from 2006 to 2010, beginning with Robert Downey Jr. as Iron Man and concluding with Mark Ruffalo replacing Edward Norton as the Hulk by 2010. Successive MCU installments introduced new members, with actors from other MCU films reprising their roles. Following the financial and critical success of The Avengers, a sequel, Avengers: Age of Ultron (2015), was subsequently developed, with Aaron Taylor-Johnson and Elizabeth Olsen joining as Pietro and Wanda Maximoff, respectively. Then, Captain America: Civil War (2016) was gradually reworked into a film influenced by the \"Civil War\" comic storyline, depicting the Avengers's division and introducing Tom Holland as Peter Parker / Spider-Man. A two-part finale consisting of Avengers: Infinity War (2018) and Avengers: Endgame (2019) was developed to conclude the Infinity Saga and depicting their disbandment."
+          ]
+        },
+        {
+          "docid": "11891556",
+          "sentences": [
+            "Constantin Film bought the film rights for the characters in 1986. A low-budget film was produced in 1992 by New Horizon Studios owned by Roger Corman. In 2004, after Constantin sub-licensed the film rights to 20th Century Fox, a second Fantastic Four film entered production. Fantastic Four was released in 2005 and the sequel Fantastic Four: Rise of the Silver Surfer was released in 2007.",
+            "In March 2019, Marvel Studios regained the film rights to the Fantastic Four and associated characters, along with the X-Men and Deadpool after Disney acquired 21st Century Fox. A new film featuring the team, part of Phase Six of the Marvel Cinematic Universe, is currently in development for a scheduled release on May 2, 2025."
+          ]
+        },
+        {
+          "docid": "11891556",
+          "sentences": [
+            "Constantin Film bought the film rights for the characters in 1986. A low-budget film was produced in 1992 by New Horizon Studios owned by Roger Corman. In 2004, after Constantin sub-licensed the film rights to 20th Century Fox, a second Fantastic Four film entered production. Fantastic Four was released in 2005 and the sequel Fantastic Four: Rise of the Silver Surfer was released in 2007."
+          ]
+        },
+        {
+          "docid": "55511148",
+          "sentences": [
+            "The film was expected to be released in May 2020, but was delayed twice due to the COVID-19 pandemic, with the new release date being July 9, 2021. On July 29, 2021"
+          ]
+        },
+        {
+          "docid": "61073786",
+          "sentences": [
+            "Phase Four features all the Marvel Studios productions released from 2021 through 2022.",
+            "Phase Four began with the series WandaVision, which premiered in January 2021, while the first theatrical film in this phase is Black Widow, which was released in July 2021 by Walt Disney Studios Motion Pictures. The phase concluded with the television special The Guardians of the Galaxy Holiday Special in November 2022."
+
+          ]
+        },
+        {
+          "docid": "22144721",
+          "sentences": [
+            "Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the sequel to Iron Man (2008) and the third film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "36484005",
+          "sentences": [
+            "Ant-Man is a 2015 American superhero film based on the Marvel Comics characters of the same name: Scott Lang and Hank Pym."
+          ]
+        },
+        {
+          "docid": "62221565",
+          "sentences": [
+            "Ant-Man and the Wasp: Quantumania is a 2023 American superhero film based on Marvel Comics featuring the characters Scott Lang / Ant-Man and Hope Pym / Wasp. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Ant-Man (2015) and Ant-Man and the Wasp (2018), and the 31st film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "39321638",
+          "sentences": [
+            "Fantastic Four (styled as FANT4STIC) is a 2015 superhero film based on the Marvel Comics superhero team of the same name."
+          ]
+        },
+        {
+          "docid": "26999426",
+          "sentences": [
+            "Captain America: The First Avenger is a 2011 American superhero film based on the Marvel Comics character Captain America."
+          ]
+        },
+        {
+          "docid": "57888684",
+          "sentences": [
+            "She first appeared in the 2015 film Ant-Man and later in Ant-Man and the Wasp (2018), Avengers: Endgame (2019) and Ant-Man and the Wasp: Quantumania (2023)."
+          ]
+        },
+        {
+          "docid": "59183000",
+          "sentences": [
+            "Spider-Man: Across the Spider-Verse is a 2023 American animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man, produced by Columbia Pictures and Sony Pictures Animation in association with Marvel Entertainment, and distributed by Sony Pictures Releasing."
+          ]
+        },
+        {
+          "docid": "32267545",
+          "sentences": [
+            "Thor: The Dark World is a 2013 American superhero film based on the Marvel Comics character Thor, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Thor (2011) and the eighth film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "5476946",
+          "sentences": [
+            "The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk. Produced by Marvel Studios and distributed by Universal Pictures, it is the second film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "36439749",
+          "sentences": [
+            "Captain America: The Winter Soldier is a 2014 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and the ninth film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "47069739",
+          "sentences": [
+            "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film featuring the Marvel Comics character Miles Morales/Spider-Man, produced by Columbia Pictures and Sony Pictures Animation in association with Marvel Entertainment, and distributed by Sony Pictures Releasing."
+          ]
+        },
+        {
+          "docid": "36450985",
+          "sentences": [
+            "Guardians of the Galaxy (retroactively referred to as Guardians of the Galaxy Vol. 1) is a 2014 American superhero film based on the Marvel Comics superhero team of the same name."
+          ]
+        },
+        {
+          "docid": "22114132",
+          "sentences": [
+            "Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name."
+          ]
+        },
+        {
+          "docid": "1129847",
+          "sentences": [
+            "Daredevil is a 2003 American superhero film written and directed by Mark Steven Johnson, based on the Marvel Comics character of the same name created by Stan Lee and Bill Everett."
+          ]
+        },
+        {
+          "docid": "702117",
+          "sentences": [
+            "Spider-Man 3 is a 2007 American superhero film based on the Marvel Comics character Spider-Man."
+          ]
+        },
+        {
+          "docid": "44254295",
+          "sentences": [
+            "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018), and the 22nd film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "36484254",
+          "sentences": [
+            "Avengers: Age of Ultron is a 2015 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to The Avengers (2012) and the 11th film in the Marvel Cinematic Universe (MCU)."
+          ]
+        },
+        {
+          "docid": "45359871",
+          "sentences": [
+            "Spider-Man: Homecoming is a 2017 American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios, and distributed by Sony Pictures Releasing."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "original_query": "Are there any unreleased marvel films?",
+      "keyword_query": "marvel unreleased films",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "unreleased",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "movie",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "film",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "date",
+      "matches": [
+        {
+          "docid": "71405311",
+          "sentences": [
+            "Director Mark Steven Johnson showed interest in returning to direct with the Born Again storyline, as well as suggesting Mr. Fear as a possible villain. During 2004, Ben Affleck shot a cameo role for the spin-off film, Elektra, at the request of Daredevil co-star Jennifer Garner."
+          ]
+        },
+        {
+          "docid": "71405311",
+          "sentences": [
+            "Director Mark Steven Johnson showed interest in returning to direct with the Born Again storyline, as well as suggesting Mr. Fear as a possible villain. During 2004, Ben Affleck shot a cameo role for the spin-off film, Elektra, at the request of Daredevil co-star Jennifer Garner.",
+            "In July 2006, Michael Clarke Duncan showed interest in returning for the role of the Kingpin, but said that he would not be willing to gain weight as he felt \"comfortable\" being down to 270 pounds.",
+            "In August 2008, Jason Statham expressed interest in appearing as Daredevil in the future. Statham requested to give him a chance because of his love to the character.",
+            "On September 3, 2012, Duncan died, precluding him from reprising his role as Kingpin. By that time, a sequel or reboot would not start filming by October 10, 2012 if the rights to the Daredevil franchise would revert from Fox back to Marvel. In early August, Fox scrambled to find a replacement for David Slade, who dropped out of the director's chair due to scheduling conflicts."
+          ]
+        },
+        {
+          "docid": "1925273",
+          "sentences": [
+            "The Fantastic Four is an unreleased 1994 superhero film based on the Marvel Comics superhero team of the same name, created by Stan Lee and Jack Kirby."
+          ]
+        },
+        {
+          "docid": "59535919",
+          "sentences": [
+            "In the 1950s, a television series based on the character Namor was planned starring Richard Egan, but it never finished production.",
+            "In the early 1970s, a different Sub-Mariner television pilot was in development but never finished filming due to the similarity of the short-lived Man from Atlantis series.",
+            "In 1975, Angela Bowie secured the TV rights to Daredevil and Black Widow for a duration of one year and planned a TV series based on the two characters.",
+            "In a 2002 interview with SFX magazine, Nicholas Hammond revealed that there were plans to do an The Amazing Spider-Man series reunion movie in 1984.",
+            "In 2006, a television series based on Skrull Kill Krew was in development. At some point in time, Marvel ceased development for unknown reasons."
+          ]
+        },
+        {
+          "docid": "58481694",
+          "sentences": [
+            "Although never officially released to the general public, but exhibited once on May 31, 1994, The Fantastic Four has been subject to bootleg recordings.",
+            "In 2004, Lionsgate Entertainment announced that a Black Widow motion picture, featuring the Natasha Romanova version, was in the script stage by screenwriter-director David Hayter. Lionsgate subsequently dropped the project."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "original_query": "Who scored the music of marvel movies?",
+      "keyword_query": "marvel movies score music",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "music",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "score",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "film",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "person",
+      "matches": [
+        {
+          "docid": "799566",
+          "sentences": [
+            "Jean-Christophe Beck (born in 1968 in Montreal) is a Canadian television and film score composer and conductor. He is best known for his collaborations with Disney and its subsidiaries, which include composing the soundtracks of The Muppets (2011) and Muppets Most Wanted (2014), Frozen (2013) and its 2019 sequel, the Marvel Cinematic Universe films Ant-Man (2015), Ant-Man and the Wasp (2018), and Ant-Man and the Wasp: Quantumania (2023) as well as the TV miniseries WandaVision (2021) and Hawkeye (2021) for Marvel Studios"
+          ]
+        },
+        {
+          "docid": "51430647",
+          "sentences": [
+            "Ramin Djawadi provided the first MCU music with his original score for Iron Man in 2008. Alan Silvestri was the first composer to work on multiple MCU films, while Brian Tyler was the first composer to reference the work of another MCU composer when he quoted Silvestri's \"Captain America March\" in his score for Thor: The Dark World (2013) and he composed the previous fanfare for the Marvel Studios production logo from 2013 to 2016. Michael Giacchino has scored five MCU films, the most for any composer in the franchise, and composed the fanfare that has been used for the Marvel Studios production logo since 2016."
+          ]
+        },
+        {
+          "docid": "40833242",
+          "sentences": [
+            "Thor: The Dark World (Original Motion Picture Soundtrack) is the film score for the Marvel Studios film, Thor: The Dark World by Brian Tyler, which was released by Hollywood Records in Europe on October 28, 2013."
+          ]
+        },
+        {
+          "docid": "70674594",
+          "sentences": [
+            "Doctor Strange in the Multiverse of Madness (Original Motion Picture Soundtrack) is the film score to the Marvel Studios film Doctor Strange in the Multiverse of Madness composed by Danny Elfman."
+          ]
+        },
+        {
+          "docid": "1074657",
+          "sentences": [
+            "Ludwig Göransson's score to Black Panther (2018) won an Academy Award for Best Original Score and a Grammy Award for Best Score Soundtrack for Visual Media"
+          ]
+        },
+        {
+          "docid": "35283979",
+          "sentences": [
+            "The Avengers (Original Motion Picture Soundtrack) is the film score for the Marvel Studios film The Avengers composed and conducted by Alan Silvestri."
+          ]
+        },
+        {
+          "docid": "35283979",
+          "sentences": [
+            "The Avengers (Original Motion Picture Soundtrack) is the film score for the Marvel Studios film The Avengers composed and conducted by Alan Silvestri."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "original_query": "Who are the top actors that portrayed marvel characters in film?",
+      "keyword_query": "marvel actors portrayed film",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "portrayed",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "actor",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "film",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "person",
+      "matches": [
+        {
+          "docid": "64651213",
+          "sentences": [
+            "From 2014 to 2019, Brolin portrayed Thanos in the Marvel Cinematic Universe"
+          ]
+        },
+        {
+          "docid": "40820169",
+          "sentences": [
+            "Anthony Revolori ( Quiñonez; born April 28, 1996) is an American actor. He is best known for his collaborations with Wes Anderson starring in The Grand Budapest Hotel (2014), The French Dispatch (2021), and Asteroid City (2023) and for portraying Flash Thompson in the Marvel Cinematic Universe films Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021)."
+          ]
+        },
+        {
+          "docid": "4451883",
+          "sentences": [
+            "Anthony Dwane Mackie (born September 23, 1978) is an American actor.",
+            "He achieved global recognition for portraying Sam Wilson / Falcon / Captain America in the Marvel Cinematic Universe, beginning with the film Captain America: The Winter Soldier (2014), and most recently starring in the Disney+ miniseries The Falcon and the Winter Soldier (2021)"
+          ]
+        },
+        {
+          "docid": "60744481",
+          "sentences": [
+            "The films star Robert Downey Jr. as Tony Stark / Iron Man in Iron Man and Iron Man 2, Edward Norton as Bruce Banner / Hulk in The Incredible Hulk, Chris Hemsworth as Thor in Thor, and Chris Evans as Steve Rogers / Captain America in Captain America: The First Avenger. All returned to star in the ensemble film The Avengers except for Norton, who was replaced by Mark Ruffalo. Samuel L. Jackson has the most appearances in the phase, starring or making cameo appearances as Nick Fury in five of the films."
+          ]
+        },
+        {
+          "docid": "40674686",
+          "sentences": [
+            "Wyatt Russell (born July 10, 1986) is an American actor and former ice hockey player.",
+            "In 2021, he starred as John Walker in the Disney+ series The Falcon and the Winter Soldier. He will reprise the role in the 2025 film Thunderbolts."
+          ]
+        },
+        {
+          "docid": "41648517",
+          "sentences": [
+            "Actor Benedict Cumberbatch has performed in many films",
+            "He plays Dr. Stephen Strange in the Marvel Cinematic Universe (MCU), beginning with the release of Doctor Strange (2016) and reprised the role in Thor: Ragnarok (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: No Way Home (2021), and Doctor Strange in the Multiverse of Madness (2022)."
+          ]
+        },
+        {
+          "docid": "39951184",
+          "sentences": [
+            "Actor Benedict Cumberbatch has performed in many films",
+            "He plays Dr. Stephen Strange in the Marvel Cinematic Universe (MCU), beginning with the release of Doctor Strange (2016) and reprised the role in Thor: Ragnarok (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: No Way Home (2021), and Doctor Strange in the Multiverse of Madness (2022)."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "original_query": "What rewards and accolades has marvel received?",
+      "keyword_query": "marvel rewards accolades",
+      "kibana_query": {
+        "query": {
+          "bool": {
+            "should": [ {
+              "multi_match": {
+                "query":"Marvel Entertainment",
+                "fields":[],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query":"Marvel Cinematic Universe",
+                "fields":[],
+                "type":"phrase"
+              } } ],
+            "must": [ {
+              "multi_match": {
+                "query": "awards",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "accolades",
+                "fields": [],
+                "type":"phrase"
+              } }, {
+              "multi_match": {
+                "query": "received",
+                "fields": [],
+                "type":"phrase"
+              } } ]
+          }
+        }
+      },
+      "answer_type": "other",
+      "matches": [
+        {
+          "docid": "65967176",
+          "sentences": [
+            "Of the various science fiction awards, the Saturn Awards is the most frequent award for the Marvel Cinematic Universe; in 13 years, MCU films have been nominated for 159 Saturn Awards (winning 39): 8 nominations for Iron Man (winning three), 1 nomination for The Incredible Hulk, 4 nominations for Iron Man 2, 4 nominations for Thor (winning one), 7 nominations for Captain America: The First Avenger, 6 nominations for The Avengers (winning four), 5 nominations for Iron Man 3 (winning three), 5 nominations for Thor: The Dark World, 11 nominations for Captain America: The Winter Soldier, 9 nominations for Guardians of the Galaxy (winning four), 4 nominations for Avengers: Age of Ultron (winning one), 6 nominations for Ant-Man (winning one), 8 nominations for Captain America: Civil War (winning one), 10 nominations for Doctor Strange (winning two), 4 nominations for Guardians of the Galaxy Vol. 2 (winning one), 4 nominations for Spider-Man: Homecoming (winning one), 2 nominations for Thor: Ragnarok, 14 nominations for Black Panther (winning five), 2 nominations for Avengers: Infinity War (winning one), 3 nominations for Captain Marvel, 14 nominations for Avengers: Endgame (winning six), 4 nominations for Spider-Man: Far From Home (winning two), 7 nominations for Shang-Chi and the Legend of the Ten Rings (winning one), 1 nomination for Eternals, 9 nominations for Spider-Man: No Way Home (winning one), 4 nominations for Doctor Strange in the Multiverse of Madness (winning one), and 3 nominations for Thor: Love and Thunder."
+          ]
+        },
+        {
+          "docid": "68626888",
+          "sentences": [
+            "The series garnered numerous awards and nominations; it was nominated for twenty-three Primetime Emmy Awards (the most of any limited series that year), including Outstanding Limited or Anthology Series, and won three Creative Arts Emmy Awards. From major guilds, it was nominated for a Producers Guild of America Award, a Writers Guild of America Award, and a Directors Guild of America Award. WandaVision was nominated for two Golden Globe Awards, four TCA Awards, and four Critics' Choice Television Awards. In genre awards, the series won three Critics' Choice Super Awards, a Harvey Award, and a Nebula Award and was nominated for three Saturn Awards, a Hugo Award, and a Dragon Award. The American Film Institute named WandaVision as one of the top television programs of 2021."
+          ]
+        },
+        {
+          "docid": "61699239",
+          "sentences": [
+            "It received a nomination for Best Visual Effects at the 92nd Academy Awards. The film won Outstanding Achievement for Character Animation in a Live Action Production at the 47th Annie Awards. At the 73rd British Academy Film Awards, Avengers: Endgame was nominated for Best Special Visual Effects. It received three nominations at the 25th Critics' Choice Awards and won Best Visual Effects and Best Action Movie. Composer Alan Silvestri received a nomination for Best Score Soundtrack for Visual Media at the Grammy Awards' 62nd ceremony. The film won six of fourteen nominations at the 45th Saturn Awards."
+          ]
+        },
+        {
+          "docid": "56848986",
+          "sentences": [
+            "It was nominated for seven Academy Awards (winning three), one AACTA Award, one American Music Award (won), nine BET Awards (winning two), one Billboard Music Award, seventeen Black Reel Awards (winning ten), one British Academy Film Award (won), twelve Critics' Choice Movie Awards (winning three), three Golden Globe Awards, eight Grammy Awards (winning two), two Hollywood Film Awards (won), seven MTV Movie & TV Awards (winning four), one MTV Video Music Award (won), sixteen NAACP Image Awards (winning ten), five People's Choice Awards (winning two), one Producers Guild of America Award, eight Satellite Awards (winning two), two Screen Actors Guild Awards (winning both), fourteen Saturn Awards (winning five), eleven Teen Choice Awards (winning three), and one Writers Guild Award."
+          ]
+        },
+        {
+          "docid": "72449327",
+          "sentences": [
+            "Black Panther: Wakanda Forever is a 2022 American superhero film based on the Marvel Comics character Black Panther.",
+            "The film was nominated for five Academy Awards, one British Academy Film Award, six Critics' Choice Movie Awards (winning two), two Golden Globe Awards (winning one), and two Screen Actors Guild Awards."
+          ]
+        },
+        {
+          "docid": "71238113",
+          "sentences": [
+            "Avengers: Infinity War garnered awards and nominations in various categories with particular recognition for its acting (mainly that of Brolin) and visual effects. It received a nomination for Best Visual Effects at the 91st Academy Awards. The film received a nomination for Outstanding Achievement for Character Animation in a Live Action Production at the 46th Annie Awards. At the 72nd British Academy Film Awards, Avengers: Infinity War was nominated for Best Special Visual Effects. It received two nominations at the 24th Critics' Choice Awards. Composer Alan Silvestri received a nomination for Best Instrumental Composition at the Grammy Awards' 61st ceremony. The film won one of two nominations at the 45th Saturn Awards."
+          ]
+        },
+        {
+          "docid": "69714119",
+          "sentences": [
+            "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man",
+            "The film received a nomination for an Academy Award, three Nickelodeon Kids' Choice Awards (winning all of the categories), five Critics' Choice Super Awards (winning three), nine Saturn Awards (winning one), among several others, chiefly for the writing and technical achievement."
+          ]
+        },
+        {
+          "docid": "71575700",
+          "sentences": [
+            "Guardians of the Galaxy garnered awards and nominations in various categories with particular recognition for its acting (mainly that of Pratt), make-up, and visual effects. It received two nominations at the 87th Academy Awards, including Best Visual Effects. The film garnered a nomination Outstanding Achievement for Character Animation in a Live Action Production at the 42nd Annie Awards. At the 68th British Academy Film Awards, Guardians of the Galaxy was nominated for Best Makeup and Hair and Best Special Visual Effects. It received five nominations at the 20th Critics' Choice Awards and won two awards. The film won four of nine nominations at the 41st Saturn Awards."
+          ]
+        }
+      ]
+    }
+  ]
+}
